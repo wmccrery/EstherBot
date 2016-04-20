@@ -1,9 +1,10 @@
 {
-    "HELLO": "Hey, I'm so glad you set EstherBot up!",
+    "HELLO": "Hi. What do you want to do next?",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "BEGIN": "You awake, it is the mountains. You are in your house. But who are you? Are you a boy or a girl?",
-    "CONNECT ME": "The world becomes hazzy... you connecting with a higher power...",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "BOY": "You are Callisto. You have two sisters. They call you Cal. Mr. Draney works along the warf and he calls you Cal-El. He says it's a reference to someone famous from before you were born—a good guy, he says. I can tell you more about yourself, or not. What do you want to do next?",
+    "CONNECT ME": "The world becomes hazzy... you are connecting with a higher power...",
+    "DISCONNECT": "The vision closes, and the world returns. You are where you were only a moment ago, but your surroundings seem to glow with a renewed sense of purpose. What do you want to do next?"
     
 }
