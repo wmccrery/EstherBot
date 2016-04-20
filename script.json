@@ -1,10 +1,12 @@
 {
     "HELLO": "Hi. What do you want to do next?",
-    "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
     "BEGIN": "You awake, it is the mountains. You are in your house. But who are you? Are you a boy or a girl?",
-    "BOY": "You are Callisto. You have two sisters. They call you Cal. Mr. Draney works along the warf and he calls you Cal-El. He says it's a reference to someone famous from before you were born—a good guy, he says. I can tell you more about yourself, or not. What do you want to do next?",
-    "CONNECT ME": "The world becomes hazzy... you are connecting with a higher power...",
-    "DISCONNECT": "The vision closes, and the world returns. You are where you were only a moment ago, but your surroundings seem to glow with a renewed sense of purpose. What do you want to do next?"
+    "GIRL": "A mighty girl. You have not forgotten yourself. You have a sister, and a brother too. Is he older or younger than you?",
+    "YOUNGER": "Ah, yes. Cal. Impulsive, brash, and kind. You care for him while your father is away (and even after your father has returned). He is older than Aiyoh, but often less responsible. You are Europah, the oldest of the Halloran children. What do you want to do next?",
+    "OLDER": "Ah, yes. Cal. He takes you everywhere he goes. Into the woods to hunt. Down to the docks to watch the ships, and wait for your father to return. You are Aiyoh, the youngest of the Halloran children. What do you want to do next?",
+    "BOY": "You are Callistoh. You have two sisters. They call you Cal. Mr. Draney works along the warf and he calls you Cal-El. He says it's a reference to someone famous from before you were born—a goodguy he says. What do you want to do next?",
+    "LOOK AROUND": "You see a lot of things I don't have time to describe right now. ",
+    "CONNECT ME": "The world becomes hazzy... you feel connected to a higher power... (the higher power may not be paying attention right now. In which case, type DISCONNECT to return to the earthly plain)",
+    "DISCONNECT": "The vision closes, and you return to the real world. You are exactly where you were only moments before, but your surroundings seem to glow with a renewed sense of purpose. What do you want to do next?"
     
 }
