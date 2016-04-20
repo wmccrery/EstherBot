@@ -2,7 +2,8 @@
     "HELLO": "Hey, I'm so glad you set EstherBot up!",
     "TWITTER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: http://bit.ly/estherbot-tweet",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
     "BEGIN": "You awake, it is the mountains. You are in your house. But who are you? Are you a boy or a girl?",
+    "CONNECT ME": "The world becomes hazzy... you connecting with a higher power...",
+    "DISCONNECT": "Roger that, EstherBot is back."
+    
 }
