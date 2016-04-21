@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('Initializing questionable use of your time...')
                 .then(() => 'speak');
         }
     },
@@ -25,7 +25,7 @@ module.exports = new Script({
 
             function updateSilent() {
                 switch (upperText) {
-                    case "CONNECT ME":
+                    case "MEDITATE":
                         return bot.setProp("silent", true);
                     case "DISCONNECT":
                         return bot.setProp("silent", false);
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that.`).then(() => 'speak');
+                    return bot.say(`I'm sorry but you're doing it wrong.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
