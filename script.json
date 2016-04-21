@@ -12,6 +12,8 @@
     "POOP": "This is not the time, nor the place. Besides you should have gone before we left.",
     "WIN" : "You've done it! Congratulations, everything worked out fine.",
     "SURFING" : "The ocean (if it exists) would be thousands of miles from here. Do you want to FIND THE OCEAN, or GO TO TOWN",
+    "FIND THE OCEAN" : "Ok, I'm going to level with you: this part isn't ready yet... sorry!",
+    "GO TO TOWN" : "Ok, I'm going to level with you: this part isn't ready yet... sorry!",
     "MEDITATE": "The world becomes hazzy... you feel connected to a higher power... (if you've been connected for a while and aren't getting anything, the higher power may not be paying attention right now. In which case, type DISCONNECT to return to the earthly plain)",
     "DISCONNECT": "The vision closes, and you return to the real world. You are exactly where you were only moments before, but your surroundings seem to glow with a renewed sense of purpose. What do you want to do next?"
     
