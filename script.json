@@ -18,6 +18,6 @@
     "SURFING" : "The ocean (if it exists) would be thousands of miles from here. Do you want to FIND THE OCEAN, or GO TO TOWN",
     "WIN" : "You've done it! Congratulations, everything worked out fine.",
     "YOUNGER": "Ah, yes. Cal. Impulsive, brash, and kind. You care for him while your father is away (and even after your father has returned). He is older than Aiyoh, but often less responsible. You are Europah, the oldest of the Halloran children. What do you want to do next?",
-    "TESTING TESTING" : "<p>This is a paragraph</p> <p>and this is another...</p>"
+    "TESTING TESTING" : "This is a paragraph<br>and this is another..."
     
 }
