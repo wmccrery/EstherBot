@@ -2,12 +2,14 @@
     "BEGIN": "The broad edge where two biomes meet and mix together is a place of tremendous diversity of life. Such places are called ecotones. You live along the lengthy upper edge of such a love affair: between a mountain range and a desert. But who are you? Are you a boy, or a girl?",
     "BOY": "You are Callistoh. You have two sisters: Aiyoh is younger than you, and Europah is older. They call you Cal. Mr. Draney works along the warf and he calls you Cal-El. He says it's a reference to someone famous from before you were born—a good guy he says.",
     "DISCONNECT": "The vision closes, and you return to the real world. You are exactly where you were only moments before, but your surroundings seem to glow with a renewed sense of purpose. What do you want to do next?",
-    "EAT": "It is not time to eat yet.",    
+    "EAT": "Good idea. But what?! How?!",    
     "EVEN MORE HELP": "So, I'm going to be honest with you for a moment. This is hard to do, but you are doing great! Did you try SURFING? ... you could also type WIN... just saying.",
-    "FIND FOOD" : "The overcast sky above rumbles ominously... no wait, that's your stomach. You have some potatoes in the cellar, and you are holding out hope that Cal will bring back a pheasant. You lean the maul against the stump and put your arm around your sister, 'Come on, let's get dinner ready.'",
+    "FIND CAL" : "In the kitchen your anxiety builds. Splitting spruce is apparently more effective than potatoes. You tell Aiyoh to find Cal who’s been hunting in the forrest all day. She senses the hurry and scampers out the door."
+    "FIND FOOD" : "The sky above rumbles ominously... no wait, that's your stomach. There are potatoes in the cellar, and you are holding out hope that Cal will bring back a pheasant. You lean the maul against the stump and put your arm around your sister, 'Come on, let's get dinner ready.' Back at the house, Aiyoh brings an armload of potatoes up from the cellar and asks if she should go grab fire wood. You don't know if Cal has had any luck but if he has you'd rather make a stew...",
     "FIND THE OCEAN" : "Ok, I'm going to level with you: this part isn't ready yet... sorry!",
+    "FOOD" : "There are potatoes in the cellar, and you are holding out hope that Cal will bring back a pheasant. You lean the maul against the stump and put your arm around your sister, 'Come on, let's get dinner ready.' Back at the house, Aiyoh brings an armload of potatoes up from the cellar and asks if she should go grab fire wood. You don't know if Cal has had any luck but if he has you'd rather make a stew...",
     "GIRL": "A mighty girl. You have not forgotten yourself. You have a sister too, and a brother. Is he older or younger than you?",
-    "GO TO TOWN" : "You quickly begin packing something for dinner in. and send Aiyoh to find Cal who’s been hunting in the forrest all day. If you leave soon enough you can stay in your father’s office tonight. Whether it rains or not the overcast sky will bring nightfall early.",
+    "GO TO TOWN" : "You quickly begin packing a burlap bag with the potatoes. If you leave soon enough you can stay in your father’s office tonight. Whether it rains or not the overcast sky will bring nightfall early, so you'll need to leave soon.",
     "HELLO": "Hi. What do you want to do next?",
     "HELP": "Are you ok? If you don't know what to do next, I recommend that you LOOK AROUND... But it's your life. Still, Let me know if you need MORE HELP.",
     "LOOK AROUND": "Trees gnarled and exotic (liberal almost) straighten and resist the seasons, growing tall and conservative as they ascend the mountainsides. But if you take it in from the top down you get a better representation of reality: a broad assortment of vegetation tumbling down the foothills, lodging in the canyons, searching for a natural habitat, eventually to be swallowed by the parched scrubland far below. If it sounds a mess, it is. Nothing tamed, organized, squared-off or preserved—everything a muddle of misplaced plant-life.",
@@ -17,9 +19,10 @@
     "POOP": "This is not the time, nor the place. Besides you should have gone before we left.",
     "SAVE" : "Your progress has been saved... in your mind. I'm not going to be responsible for your short term memory problems—don't put that on me.",
     "SURFING" : "The ocean (if it exists) would be thousands of miles from here. Do you want to FIND THE OCEAN, or GO TO TOWN",
-    "WIN" : "You've done it! Congratulations, everything worked out fine.",
-    "TALK TO AIYOH" : "Right? Seems like a reasonable idea… you totally should but I’m still working on that part.",
+    "TALK TO AIYOH" : "Right? Seems like a reasonable thing to do… you totally should but I’m still working on that part. You are a little hungry though...",
     "TOWN" : "Most of the population lives and labors along the bottom of the range, collecting around a kind of port village during the day. From March to September embassies, merchants and pirates rumble up to trade in strange convoys. Do you want to GO TO TOWN?",    "YOUNGER": "Ah, yes. Cal. Impulsive, brash, and kind. You care for him while your father is away (and even after your father has returned). He is older than Aiyoh, but often less responsible. You are Europah, the oldest of the Halloran children. Today you are splitting wood for winter in the shed behind your house. The work is a relief—it distracts you. Even so you find yourself leaning, arms folded over the maul handle, lost in thought. Your father has been away for a month and the anxiety is returning. You tuck your thoughts away for later and drag a new log up onto the stump. With a satisfying *thunk* the log splits and tumbles in two directions. Across the stump you notice Aiyoh sitting in the doorway of the woodshed. She seems upset.",
+    "WAT DO" : "Find food?",
+    "WIN" : "You've done it! Congratulations, everything worked out fine.",
     "TESTING TESTING" : "This is a paragraph,"
     
 }
