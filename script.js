@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I'm sorry but you're doing it wrong. (try to be more concise).`).then(() => 'speak');
+                    return bot.say(`I'm sorry you're doing fantastic, but I don't know what to say at this point. (try to be more concise).`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
